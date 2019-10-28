@@ -4,6 +4,7 @@ class Card
 
   def self.build(suit,rank)
     new(suit:suit,rank:rank)
+    
   end
 
   def initialize(suit:,rank:)
