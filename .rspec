@@ -1,0 +1,4 @@
+--color
+--require ./Tests/spec_helper
+--format doc
+Test_spec.rb
